@@ -1,0 +1,48 @@
+{
+	"httpUri": "https://devnet.solana.com",
+	"contracts": {},
+	"accounts": [
+		"EshyCnGE19pR3cgHtZKKpL1sWz73A188UKU6MyMZWj21",
+		"319AkyG93daTa4q65GSwyUsNG2XyCrDAm5FnPhyBQvNU",
+		"9SPMccrR69Q658VebVbNvQNxkuGUpMg5msmevzdSoym5",
+		"8KfbsYkGmVwoQ14KVnfuZTVzTowXVhwv65LJBAWnwY9R",
+		"GUeNJHdibQ5MDJznFx8Sj1q5oZEHKPWSmUMcxvZe6nZz"
+	],
+	"wallets": [
+		{
+			"publicKey": "EshyCnGE19pR3cgHtZKKpL1sWz73A188UKU6MyMZWj21",
+			"privateKey": "8TDhBWu4kS62khPQwd1JvSRw4N1gaEDUbGbDxNv3ZxMmHT1HgKb1q4E3UpumiKjpuJJnPr9TAf1sPjLDNNtoRPF"
+		},
+		{
+			"publicKey": "319AkyG93daTa4q65GSwyUsNG2XyCrDAm5FnPhyBQvNU",
+			"privateKey": "b6dQvQnZFJPKShPs2hybHxF2VsFuNUP51w4reYj7o2s3qfNnwGAdvLsoVmybkazi1B9VVHC7ccyVugqPNm2zsSY"
+		},
+		{
+			"publicKey": "9SPMccrR69Q658VebVbNvQNxkuGUpMg5msmevzdSoym5",
+			"privateKey": "5PsmVRCYCPdPFx4e47ZSKRYZYwH5QPH6jPPH8kuy8zG2dDJixYDFkcvqP67j6aWSrcHKkMEggSxFxGuNaLQX16WP"
+		},
+		{
+			"publicKey": "8KfbsYkGmVwoQ14KVnfuZTVzTowXVhwv65LJBAWnwY9R",
+			"privateKey": "4zVCgL4wuWVBgR3WCosVgmPMY8MxyACL3nDE8eKLHyabjsqWCyDzcLS4Rafq8QRSpyN2Xdg6FzCJNBppRMLDXcCj"
+		},
+		{
+			"publicKey": "GUeNJHdibQ5MDJznFx8Sj1q5oZEHKPWSmUMcxvZe6nZz",
+			"privateKey": "2voLjfjPnyqsq9BHGKWeZU9yLaNNXqKor6rAfxyHLks7MQQhZr5zbGHqHNw3p8xtEsdtM3s8ziEDX5M1HZrwE2Va"
+		}
+	],
+	"programInfo": {
+		"programId": "GCfB9buLLK16tWJo2FA3dbHpLMQ5DQUGoQLogGVXFRwn",
+		"programAccounts": {
+			"payer": {
+				"publicKey": "B7cYzJ3XedjMAcWfgZuyMFeT918jri9CoE58CujbuZfR",
+				"privateKey": "4fFgHPx6nJ9iRyG4SbYUCUWkKWPih24QqeLtzxWpVxM7qX6o4tvowHch49XNuUza9QEocifCSkqSZVzFga1NYB4w",
+				"lamports": 144472320
+			},
+			"greeting": {
+				"publicKey": "FrnZBHvsQMsKvkmNiQMfX2dbbaiMZmMKNq5YgSvgZyXD",
+				"privateKey": "5ogdp9o9oir1vVjaWjURKir5NS1y3bapc4EPecsu44mvenuegdkGEhxZgsgvAJFoDgP4VRimAEWHdH9D4xJnhgCX",
+				"lamports": 918720
+			}
+		}
+	}
+}
